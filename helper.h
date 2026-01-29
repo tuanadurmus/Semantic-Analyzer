@@ -1,5 +1,5 @@
-#ifndef __HW3_H
-#define __HW3_H
+#ifndef __HELPER_H
+#define __HELPER_H
 #include "ast.h"
 struct ASTNode;
 typedef struct ASTNode ASTNode;
