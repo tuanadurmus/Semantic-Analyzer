@@ -1,7 +1,7 @@
 %{
 #include <stdio.h>
-#include "hw3.h"
-#include "tuana.durmus-hw3.tab.h"
+#include "helper.h"
+#include "bison.tab.h"
 int comment_level = 0;
 int identifier_line;
 %}
